@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>To-Do</title>
+
+  <link rel="shortcut icon" href="images/icon.png" type="image/x-icon" />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+
+<body>
+  <main class="container">
+    <section class="todo-app">
+
+      <h2>
+        To-Do
+        <img src="images/icon.png" alt="App icon" class="icon" />
+      </h2>
+
+      <div class="row">
+        <input
+          id="input-box"
+          class="task-input"
+          type="text"
+          placeholder="What needs to be done?"
+          aria-label="Add a new task" />
+
+        <button class="add-btn" id="add-btn">Add</button>
+      </div>
+
+      <p class="empty-text" id="empty-text">No tasks yet. Add one ✨</p>
+
+      <ul id="list-container" aria-live="polite"></ul>
+
+    </section>
+  </main>
+
+  <script src="js/script.js"></script>
+</body>
+</html>

@@ -17,6 +17,33 @@ This repository contains multiple JavaScript projects, including:
 
 Each project lives in its own folder with its dedicated README (where needed) and source code.
 
+## 📌 Featured Projects
+
+### 🌦️ Weather App
+- Fetches live weather data using APIs  
+- Shows temperature, humidity, wind speed, etc.  
+- Clean UI and responsive design  
+
+### 📝 To-Do List App
+- Add, delete, and manage daily tasks  
+- Local storage support  
+- Simple and productive UI  
+
+### 🔐 Password Generator
+- Generates strong random passwords  
+- Choose length and character types  
+- Copy-to-clipboard feature  
+
+### 🎯 And Many More Coming…
+- Calculator
+- QR Code generator
+- Notes app
+- Stopwatch & timer
+- Number guessing game
+- Random quote app
+- Mini UI components and utilities
+
+> I’ll keep adding more projects as I build them 🚧
 ---
 
 ## 🛠️ Tech Stack

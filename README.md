@@ -64,10 +64,3 @@ I’m adding new projects, refactoring old ones, and improving code quality regu
 
 > If something looks messy… it’s probably under construction 😅
 
----
-
-## 🔍 How to run the projects
-
-1. Clone the repository
-   ```bash
-   git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME
